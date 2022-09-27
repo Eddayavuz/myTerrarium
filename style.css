@@ -71,13 +71,13 @@ body {
 }
 
 .jar-top {
-		width: 50%;
-		height: 5vh;
-		background: #d1e1df;
-		bottom: 80.5%;
-		margin-left: 25%;
-		opacity: 0.7;
-		z-index: 1;
+	width: 50%;
+	height: 5vh;
+	background: #d1e1df;
+	bottom: 80.5%;
+	margin-left: 25%;
+	opacity: 0.7;
+	z-index: 1;
 }
 
 .jar-bottom {
@@ -115,4 +115,5 @@ body {
 	border-radius: 1rem 1rem 1rem 1rem;
 	margin-bottom: 5%;
 }
+
 /* Terrarium END */
